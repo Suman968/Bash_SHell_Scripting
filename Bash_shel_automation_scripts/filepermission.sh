@@ -1,4 +1,5 @@
 #!/bin/bash
+# Automates file permission for the current user to read, write, and execute
 read -p "Enter the Filename:-" File
 echo "The filename is $File"
 search_dir= "/"
